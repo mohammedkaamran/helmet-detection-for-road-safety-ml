@@ -107,6 +107,6 @@ jupyter notebook helmet_detection_cnn.ipynb
 
 1. LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature*, 521, 436–444.
 2. Sandler, M., et al. (2018). MobileNetV2. CVPR 2018.
-3. Dataset: https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection
+3. Dataset: https://www.kaggle.com/datasets/andrewmvd/helmet-detection
 4. WHO (2023). Road Traffic Injuries Fact Sheet. World Health Organization.
 5. Chollet, F. (2021). *Deep Learning with Python*, 2nd Ed. Manning.

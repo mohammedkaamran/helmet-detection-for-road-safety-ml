@@ -38,7 +38,7 @@ This project builds a **CNN-based binary image classifier** to detect whether ri
 
 ## Dataset
 
-- **Name:** Hard Hat Detection
+- **Name:** Helmet Detection
 - **Source:** Kaggle — andrewmvd
 - **Link:** https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection
 - **Format:** Images + Pascal VOC XML annotations
